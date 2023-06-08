@@ -9,4 +9,6 @@ Contributions are welcome! If you have an interesting exercise to add or find er
 
 Enjoy learning, problem-solving, and improving your JavaScript skills. Happy coding!
 
+<img width="950" alt="js2" src="https://github.com/andreahcodes/JavaScript-Programming-Exercises/assets/112190511/dbf170b9-9f19-43c2-81c8-e65a000db72a">
+
 Prática e Exercícios: A prática é fundamental para melhorar suas habilidades em JavaScript. Além de escrever seu próprio código, resolver exercícios de programação e desafios pode ajudar a aprimorar suas habilidades lógicas e entender melhor os conceitos da linguagem.
